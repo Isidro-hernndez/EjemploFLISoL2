@@ -11,6 +11,9 @@ int main(){
         cout<<"5.- "<<endl;
         cout<<"6.- "<<endl;
         cout<<"7.- "<<endl;
+        cout<<"8.- "<<endl;
+        cout<<"9.- "<<endl;
+        cout<<"10.- "<<endl;
 
     return 0;
 }
